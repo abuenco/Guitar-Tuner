@@ -1,7 +1,7 @@
 # MSP-430-Guitar-Tuner
 
 ## About the Project
-I built a guitar tuner for physics lab course I took back in my undergrad. Aside from needing to complete a final project of some sort, I thought it would be neat to make my own tuner because the display of the tuner integrated into my acoustic guitar had fogged up during air travel. Plus, acoustic physics was fun and different from all the other areas of physics I was studying at the time.
+I built a guitar tuner for physics lab course I took back in my undergrad in 2017. Aside from needing to complete a final project of some sort, I thought it would be neat to make my own tuner because the display of the tuner integrated into my acoustic guitar had fogged up during air travel. Plus, acoustic physics was fun and different from all the other areas of physics I was studying at the time.
 
 The course centered around microcontroller-based device development, so this project was built with an MSP 430 microcontroller for signal analysis. The MSP430 was accompanied by a circuit for signal processing. 
 
